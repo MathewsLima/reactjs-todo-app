@@ -1,0 +1,32 @@
+.list {
+  color: #555;
+  font-size: 1rem;
+  padding: 0;
+  font-family: courier, monospace;
+  width: 100%;
+}
+
+.list li {
+  list-style: none;
+  background-color: #fff;
+  border-bottom: 1px dotted #0095ff;
+  width: 100%;
+  padding: 10px 20px 10px 65px;
+  height: auto;
+  text-transform: capitalize;
+  word-wrap: break-word;
+  cursor: pointer;
+}
+
+.list li:hover {
+  background-color: #f0f0f0;
+}
+
+.lines {
+  position: absolute;
+  border-left: 1px solid #ffaa9f;
+  border-right: 1px solid #ffaa9f;
+  width: 4px;
+  height: 100%;
+  left: 40px;
+}
