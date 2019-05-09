@@ -1,3 +1,11 @@
+# Todo App - With Redux
+
+Just a simple Todo App for know how is the workflow with Redux.
+
+Demo: https://laughing-fermi-c51b26.netlify.com
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
